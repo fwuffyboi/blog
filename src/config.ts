@@ -1,7 +1,7 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://astro-paper.pages.dev/",
+  website: "https://blog.floof.ml/",
   author: "Ashley Caramel",
   desc: "The blog of Ashley! Ashley's personal blog. :3",
   title: "BLOG // Fwuffyboi",
