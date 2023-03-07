@@ -2,12 +2,12 @@ import type { SocialObjects } from "./types";
 
 export const SITE = {
   website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  author: "Ashley Caramel",
+  desc: "The blog of Ashley! Ashley's personal blog. :3",
+  title: "BLOG // Fwuffyboi",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 10,
 };
 
 export const LOGO_IMAGE = {
@@ -20,38 +20,38 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: ` ${SITE.title} on Github`,
+    href: "https://github.com/fwuffyboi",
+    linkTitle: ` ${SITE.author} on Github`,
     active: true,
   },
   {
     name: "Facebook",
     href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Facebook`,
-    active: true,
+    linkTitle: `${SITE.author} on Facebook`,
+    active: false,
   },
   {
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    linkTitle: `${SITE.author} on Instagram`,
+    active: false,
   },
   {
     name: "LinkedIn",
     href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    linkTitle: `${SITE.author} on LinkedIn`,
+    active: false,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    href: "mailto:biscuitisnotacookie@protonmail.com",
+    linkTitle: `Send an email to ${SITE.author}`,
+    active: true,
   },
   {
     name: "Twitter",
     href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Twitter`,
+    linkTitle: `${SITE.author} on Twitter`,
     active: false,
   },
   {
@@ -93,14 +93,14 @@ export const SOCIALS: SocialObjects = [
   {
     name: "CodePen",
     href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on CodePen`,
+    linkTitle: `${SITE.author} on CodePen`,
     active: false,
   },
   {
     name: "Discord",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Discord`,
-    active: false,
+    href: "https://discord.com/users/773466452661108747",
+    linkTitle: `${SITE.author} on Discord`,
+    active: true,
   },
   {
     name: "GitLab",
