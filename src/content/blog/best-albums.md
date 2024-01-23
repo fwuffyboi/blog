@@ -18,7 +18,7 @@ This is a long list of all albums i like, for others and my own personal interes
 The listed date for this post will be inaccurate as im lazy asf to change it all the time. So thats the date of when i first uploaded this post to the blog, draft or not.
 
 LIST:
- - Лучшее (Disco CCCP хиты 80-90-X) By твой день
+ - Лучшее (Disco CCCP хиты 80-90-X) By Твой день
  - Последний герой By Кино
  - Звезда по имени солнце By Кино
  - Черный альбом By Кино
