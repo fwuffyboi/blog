@@ -37,17 +37,15 @@ All those artists are of similar genre. And I listen to all of them on a daily b
 
 I also happen to run 2 servers! I even named them... Anton and Alexis. They're very nice.
 
-Anton currently runs a [spotify listening stat thingy](https://github.com/Yooooomi/your_spotify), [Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager) for Alexis and [Homarr](https://github.com/ajnart/homarr).
+Anton doesnt run much. Basically just a [spotify listening stat thingy](https://github.com/Yooooomi/your_spotify), other random little stuff and [Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager).
 
-Alexis runs a lot.
+Alexis (my nas) runs a lot.
  - A YouTube video downloader: [MeTube](https://github.com/alexta69/metube)
  - A file browser called... [FileBrowser](https://github.com/filebrowser/filebrowser)??
  - Bitwarden but not: [VaultWarden](https://github.com/dani-garcia/vaultwarden)
- - My TV/Movie/(part-time)Music player! [JellyFin!!](https://github.com/jellyfin/jellyfin)
+ - ~~My TV/Movie/(part-time)Music player! [JellyFin!!](https://github.com/jellyfin/jellyfin)~~
  - Aaaaaaaaaand [Syncthing](https://github.com/syncthing) to y'know, sync my things up to my Nas??..
 
-Now, that "NAS" is Alexis. 
-
-Both of my servers run off of a Raspberry Pi 4B. Except Alexis uses an [Argon EON case](https://argon40.myshopify.com/products/argon-eon-pi-nas), which I must say, is very impressive. It currently has 2TB of storage (2x 2TB HDD's) and it is in RAID 1. (Basically RAID 1 just means whatever I put on one drive, goes onto the other, so if a drive breaks, I still have a version of all my data.)
+Both of my servers run off of a Raspberry Pi 4B. Except Alexis uses an [Argon EON case](https://argon40.myshopify.com/products/argon-eon-pi-nas), which I must say, is very impressive. It currently has 2TB of storage (2x 2TB HDD's) and it is in RAID 1. (Basically RAID 1 just means whatever I put on one drive, goes onto the other, so if a drive breaks, I still have a version of all my data for a small amount of time. YES I ALSO BACKUP TO AN EXTERNAL DISK EVERY DAY.)
 
 I dont know what else to put here. If anyone who decided to read this has any ideas what I should post next, send a text on discord! (Again, lol, bottom right of the page.)
